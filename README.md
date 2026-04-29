@@ -156,7 +156,7 @@ Implement a **Price Match Guarantee** for direct bookings to prevent high-value 
 Shift the default booking option to **Non-Refundable**, supported by a **5–10% incentive discount** to secure revenue upfront.
 
 ### Strategy to Decrease Cancellation
-For **No Deposit** reservations, require a **Credit Card Guarantee** with a one-night penalty for cancellations within 48 hours.
+For **No Deposit** reservations, require a **Credit Card Guarantee** with some penalty for cancellations.
 
 ---
 
