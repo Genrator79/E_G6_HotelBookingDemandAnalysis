@@ -5,6 +5,11 @@
 This dashboard serves as the high-level diagnostic tool for the hotel's health. It tracks where guests come from, when they book, and which categories are driving the **$13.12M** in revenue leakage.
 
 ---
+<p align="center">
+  <img src="tableau/dashboard/DASHBOARD 1_ EXECUTIVE OVERVIEW.png"
+       alt="Dashboard 1"
+       width="1000">
+</p>
 
 ## Key Performance Indicators (KPIs)
 
@@ -109,6 +114,11 @@ Pivot toward the **Group** segment. While they currently contribute less revenue
 This dashboard focuses on the financial health of the hotel, tracking how pricing strategies (ADR) and deposit policies directly impact the bottom line. It identifies **Revenue Leakage** and provides a roadmap for yield optimization.
 
 ---
+<p align="center">
+  <img src="tableau/dashboard/Dashboard 2 REVENUE & FINANCIAL PERFORMANCE.png"
+       alt="Dashboard 2"
+       width="1000">
+</p>
 
 ## Key Performance Indicators (KPIs)
 
@@ -221,6 +231,11 @@ Enforce a **7-day cancellation policy** during high-ADR summer months to improve
 This dashboard evaluates operational efficiency and guest behavioral patterns. By analyzing loyalty, lead times, and service requests, opportunities can be identified to improve guest satisfaction while protecting the bottom line.
 
 ---
+<p align="center">
+  <img src="tableau/dashboard/Dashboard 3 OPERATIONS & BEHAVIOR.png"
+       alt="Dashboard 3"
+       width="1000">
+</p>
 
 ## Key Performance Indicators (KPIs)
 
