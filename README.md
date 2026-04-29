@@ -210,3 +210,111 @@ Enforce a **7-day cancellation policy** during high-ADR summer months to improve
 | **4** | **Summer Protection:** Use a **7-day cancellation window** during July–August to protect **$140 room yield**. |
 
 ---
+
+
+
+
+# Dashboard 3: Operations & Behavior – Strategic Analysis
+
+This dashboard evaluates operational efficiency and guest behavioral patterns. By analyzing loyalty, lead times, and service requests, opportunities can be identified to improve guest satisfaction while protecting the bottom line.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+| KPI | Full Form | Value | Analysis |
+|:---|:---|:---:|:---|
+| **TSR** | Total Special Request | **68,215** | High engagement; guests are actively communicating needs. |
+| **TRG** | Total Repeated Guest | **3,810** | Low volume (**3.2%**) but represents the most stable revenue segment. |
+| **ALOS** | Avg. Length of Stay | **3.43 Nights** | Typical mix of short-stay business and mid-stay leisure demand. |
+| **BCR** | Booking Change Rate | **15.14%** | Indicates high flexibility and volatility after initial booking. |
+
+---
+
+# Detailed Chart Analysis & Strategy
+
+## 1. Repeated Guest Loyalty (The Loyalty Value)
+**Focus:** Comparing the reliability of returning guests versus first-time visitors.
+
+| Guest Type | Cancel Rate | Revenue Realized | Revenue Lost |
+|:---|---:|---:|---:|
+| **Repeated Guest** | **14.49%** | $0.50 Million | $0.08 Million |
+| **First-Time Guest** | **37.79%** | $29.10 Million | $13.04 Million |
+
+### Insight
+Repeated guests are **2.5x more likely to show up** than first-time guests. Although they represent a small share of volume, they carry the lowest risk of revenue loss.
+
+### Strategy to Increase Revenue
+Launch a **Welcome Back Incentive**. Since these guests have a lower ADR (**$64**), offer discounted premium room upgrades at check-in to boost yield without increasing cancellation risk.
+
+### Strategy to Decrease Cancellation
+Use automated loyalty recognition so returning guests receive personalized **Welcome Back** experiences, strengthening stay intent.
+
+---
+
+## 2. Room Assignment Discrepancy (Match vs. Mismatch)
+**Focus:** Operational accuracy in meeting guest expectations.
+
+| Status | Count | Percentage | Operational Impact |
+|:---|---:|---:|:---|
+| **Match** | 104,473 | 87.5% | High operational accuracy |
+| **Mismatch** | **14,917** | **12.5%** | Potential dissatisfaction or free upgrades |
+
+### Insight
+**12.5%** of guests are not receiving the room originally booked, often resulting in complimentary upgrades that erode revenue potential.
+
+### Strategy to Increase Revenue
+Implement **Paid Upsell Automation**. Offer mismatch rooms as discounted upgrades **48 hours before arrival**, monetizing inventory that may otherwise be given away.
+
+### Strategy to Decrease Cancellation
+For matched reservations, send room-type previews or visuals **3 days before arrival** to reinforce expectation and commitment.
+
+---
+
+## 3. Lead Time Analysis
+**Focus:** Advance planning behavior and its impact on booking stability.
+
+### Key Data
+- **Average Lead Time:** **104 Days**
+
+### Insight
+Guests book over **3 months** in advance. Longer lead times increase the likelihood of plan changes, contributing to the **15% Booking Change Rate**.
+
+### Strategy to Increase Revenue
+Implement **Lead-Time Layering** with early-bird non-refundable offers for bookings made **90+ days** in advance to secure base occupancy.
+
+### Strategy to Decrease Cancellation
+Use **Milestone Emails** at the **60-day** and **30-day** marks. Guests engaging with these touchpoints are more likely to complete their stay.
+
+---
+
+## 4. Special Requests vs. Engagement
+**Focus:** Relationship between guest engagement and stay completion.
+
+### Key Data
+- **Total Special Requests:** **68,215**
+
+### Insight
+Guests making one or more requests show significantly lower cancellation rates. Engagement is a strong proxy for commitment.
+
+### Strategy to Increase Revenue
+Monetize requests through **Add-on Packages**, such as:
+- Celebration Kits  
+- Early Arrival Guarantee  
+- Premium Guest Preference Bundles  
+
+### Strategy to Decrease Cancellation
+Prioritize fulfillment of special requests for **No Deposit** bookings. Early responsiveness reduces the chance of losing guests to competitors.
+
+---
+
+# Final Action Plan
+
+| Priority | Strategic Action |
+|:---|:---|
+| **1** | **Cultivate Loyalty:** Increase TRG from **3.2% to 6%** through post-stay email marketing. |
+| **2** | **Monetize Upgrades:** Reduce the **12.5%** mismatch rate by selling those rooms as discounted upgrades. |
+| **3** | **Engagement as Security:** Encourage special requests during booking to strengthen stay commitment. |
+| **4** | **Lead Time Management:** Use the **104-day** booking window to build guest relationships through automated touchpoints. |
+
+---
