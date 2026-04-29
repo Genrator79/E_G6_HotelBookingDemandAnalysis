@@ -98,3 +98,115 @@ Pivot toward the **Group** segment. While they currently contribute less revenue
 | **2** | **Overbook City Hotels:** Use the **41.7%** cancel rate as a buffer to sell more rooms. |
 | **3** | **Prioritize Stability:** Shift marketing from **Transient (40% risk)** to **Group** and **Transient-Party (10–25% risk)**. |
 | **4** | **Summer Protection:** Use **MLOS** and non-refundable rates for the **June–August** window to secure high-revenue months. |
+
+
+
+
+# Dashboard 2: Revenue & Financial Performance – Strategic Analysis
+
+This dashboard focuses on the financial health of the hotel, tracking how pricing strategies (ADR) and deposit policies directly impact the bottom line. It identifies **Revenue Leakage** and provides a roadmap for yield optimization.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+| KPI | Value | Analysis | Strategic Action |
+|:---|:---:|:---|:---|
+| **Total Revenue** | **$42.72 Million** | Maximum potential gross value of all bookings. | Baseline for measuring recovery efficiency. |
+| **Revenue Realized** | **$29.60 Million** | Actual cash collected from stays and non-refundable fees. | Aim to increase by 15% through policy shifts. |
+| **Revenue Loss** | **$13.12 Million** | **Critical Leakage** from refundable cancellations. | Recover $3M by tightening "No Deposit" rules. |
+| **Avg. ADR** | **$101.83** | Average daily income earned per occupied room. | Optimize to $115 during peak summer weeks. |
+
+---
+
+# Detailed Chart Analysis & Strategy
+
+## 1. ADR vs. Cancellation (Price Sensitivity)
+**Focus:** Analyzing whether higher-priced bookings are more likely to cancel.
+
+| Booking Status | Avg. ADR | Revenue Realized | Revenue Lost |
+|:---|---:|---:|---:|
+| **Checked-Out (Success)** | $99.99 | $25.99 Million | $0 |
+| **Canceled (Loss)** | **$104.96** | $3.61 Million | **$13.12 Million** |
+
+### Insight
+Canceled bookings have a **higher ADR ($104.96)** than successful bookings. This indicates guests may be price-shopping after booking and canceling when lower alternatives are found.
+
+### Strategy to Increase Revenue
+Offer an **Instant Value Add** (free premium Wi-Fi or minibar credit) for bookings with ADR above **$110** to improve commitment.
+
+### Strategy to Decrease Cancellation
+Implement a **Price Match Guarantee** for direct bookings to prevent high-value cancellations and re-booking elsewhere.
+
+---
+
+## 2. Deposit Type Impact (The Commitment Factor)
+**Focus:** Evaluating how upfront financial commitment influences guest arrival.
+
+| Deposit Type | Success Rate | Revenue Realized | Revenue Lost |
+|:---|---:|---:|---:|
+| **Non Refund** | **99.36%** | $3.62 Million | $0 |
+| **No Deposit** | 71.62% | $25.95 Million | **$13.10 Million** |
+| **Refundable** | 77.78% | $0.03 Million | $0.02 Million |
+
+### Insight
+**Non-Refundable deposits show near-perfect success rates**, while almost the full **$13.1M** revenue leakage is linked to **No Deposit** reservations.
+
+### Strategy to Increase Revenue
+Shift the default booking option to **Non-Refundable**, supported by a **5–10% incentive discount** to secure revenue upfront.
+
+### Strategy to Decrease Cancellation
+For **No Deposit** reservations, require a **Credit Card Guarantee** with a one-night penalty for cancellations within 48 hours.
+
+---
+
+## 3. Revenue by Market Segment
+**Focus:** Identifying the most profitable and reliable booking channels.
+
+| Segment | Cancel Rate | Revenue Realized | Revenue Lost |
+|:---|---:|---:|---:|
+| **Online TA** | 36.72% | **$13.73 Million** | **$10.21 Million** |
+| **Direct** | **15.34%** | $4.10 Million | $0.99 Million |
+| **Groups** | 61.06% | $4.02 Million | $0.65 Million |
+
+### Insight
+Online Travel Agents are high-volume but high-risk, driving **$10M** in lost revenue. **Direct bookings** remain the most stable channel.
+
+### Strategy to Increase Revenue
+Invest in SEO and metasearch to increase share of **Direct** bookings and improve realized revenue quality.
+
+### Strategy to Decrease Cancellation
+For **Groups** bookings, eliminate soft blocks and require a **25% non-refundable deposit** for blocks exceeding five rooms.
+
+---
+
+## 4. ADR Seasonality (Monthly Yield Trend)
+**Focus:** Aligning pricing strategies with demand cycles.
+
+| Month | Avg. ADR | Success Rate | Revenue Performance |
+|:---|---:|---:|:---|
+| **August** | **$140.11** | 62.25% | **Peak Revenue Month** |
+| **July** | $126.79 | 62.55% | High Summer Demand |
+| **January** | $70.36 | 69.52% | Off-Season Low |
+
+### Insight
+ADR peaks in August, but so does inventory pressure. A **37.7% cancellation rate** in August makes revenue leakage especially expensive due to the **$140 ADR**.
+
+### Strategy to Increase Revenue
+Apply **Dynamic Pricing Surges**, increasing rates by **10%** for the final **15%** of inventory during July–August.
+
+### Strategy to Decrease Cancellation
+Enforce a **7-day cancellation policy** during high-ADR summer months to improve resale opportunities at premium rates.
+
+---
+
+# Final Action Plan
+
+| Priority | Strategic Action |
+|:---|:---|
+| **1** | **Monetize Commitment:** Use the 99% success rate of Non-Refundables to support aggressive **Pay Now & Save** campaigns. |
+| **2** | **Verify High-Value Bookings:** Reservations above **$110 ADR** require mandatory reconfirmation 3 days prior to arrival. |
+| **3** | **Optimize Group Deposits:** Reduce 61% volatility in group blocks through stricter upfront payment terms. |
+| **4** | **Summer Protection:** Use a **7-day cancellation window** during July–August to protect **$140 room yield**. |
+
+---
