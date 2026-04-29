@@ -6,7 +6,7 @@ This dashboard serves as the high-level diagnostic tool for the hotel's health. 
 
 ---
 <p align="center">
-  <img src="tableau/dashboard/DASHBOARD 1_ EXECUTIVE OVERVIEW.png"
+  <img src="../tableau/dashboard/DASHBOARD 1_ EXECUTIVE OVERVIEW.png"
        alt="Dashboard 1"
        width="1000">
 </p>
@@ -115,7 +115,7 @@ This dashboard focuses on the financial health of the hotel, tracking how pricin
 
 ---
 <p align="center">
-  <img src="tableau/dashboard/Dashboard 2 REVENUE & FINANCIAL PERFORMANCE.png"
+  <img src="../tableau/dashboard/Dashboard 2 REVENUE & FINANCIAL PERFORMANCE.png"
        alt="Dashboard 2"
        width="1000">
 </p>
@@ -232,7 +232,7 @@ This dashboard evaluates operational efficiency and guest behavioral patterns. B
 
 ---
 <p align="center">
-  <img src="tableau/dashboard/Dashboard 3 OPERATIONS & BEHAVIOR.png"
+  <img src="../tableau/dashboard/Dashboard 3 OPERATIONS & BEHAVIOR.png"
        alt="Dashboard 3"
        width="1000">
 </p>
