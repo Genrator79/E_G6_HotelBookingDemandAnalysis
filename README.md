@@ -8,8 +8,7 @@ This dashboard serves as the high-level diagnostic tool for the hotel's health. 
 <p align="center">
   <img src="tableau/dashboard/DASHBOARD 1_ EXECUTIVE OVERVIEW.png"
        alt="Dashboard 1"
-       width="1400"
-       height="800>
+       width="1000">
 </p>
 
 ## Key Performance Indicators (KPIs)
