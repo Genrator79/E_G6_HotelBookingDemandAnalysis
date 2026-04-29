@@ -99,6 +99,8 @@ Pivot toward the **Group** segment. While they currently contribute less revenue
 | **3** | **Prioritize Stability:** Shift marketing from **Transient (40% risk)** to **Group** and **Transient-Party (10–25% risk)**. |
 | **4** | **Summer Protection:** Use **MLOS** and non-refundable rates for the **June–August** window to secure high-revenue months. |
 
+---
+
 
 
 
