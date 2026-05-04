@@ -12,3 +12,9 @@ https://farhanapervin05.github.io/portfolioDVA/
 
 Mukul Kumar
 https://dva-portfolio-virid.vercel.app/
+
+Aditya Verma
+https://adivermaa.github.io/DVA-Portfolio/
+
+Malhar Mahanwar
+https://malharms.vercel.app/
